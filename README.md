@@ -1,17 +1,17 @@
 # The Codewars Playground in Go
 
-It's playground for comfortable testing solution of the [Codewars](https://www.codewars.com/)' *kata* in Go.
+It's a playground for comfortable testing the solution of the [Codewars](https://www.codewars.com/)' *kata* in Go.
 
 ## How to play
 
-1. Copy *kata* tests into [kata/test.go](./kata/tests.go)
-2. Copy *kata* solution into [kata/solution.go](./kata/solution.go)
-3. Modify solution as you wish.
+1. Copy the *kata* tests into [kata/test.go](./kata/tests.go) (only `var _ = Describe[...]`).
+2. Copy the *kata* solution into [kata/solution.go](./kata/solution.go) (whole content).
+3. Modify a solution as you wish.
 4. Run app:
    - in terminal run: `go run .`
    - in [VSC](https://code.visualstudio.com/) press: `F5` or `Ctrl+F5` (results are shown in "debug console")
 
-## Limits
+## Limitations 
 
 - Values of "solution" and "expected" are compared as texts.
 - Keep in mind that your installed Go version can be different (usually newer) then in the Codewars' environment.
