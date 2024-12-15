@@ -1,6 +1,7 @@
 # The Codewars Playground in Go
 
 It's a playground for comfortable testing the solution of the [Codewars](https://www.codewars.com/)' *kata* in Go.
+
 The playground works in offline (don't need internet connection).
 
 ## How to play
