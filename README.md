@@ -1,6 +1,6 @@
-# CoreWars Playground in Go
+# The Codewars Playground in Go
 
-It's playground for testing solution of [CoreWars](https://www.codewars.com/)' *kata* in Go.
+It's playground for comfortable testing solution of the [Codewars](https://www.codewars.com/)' *kata* in Go.
 
 ## How to play
 
@@ -14,5 +14,5 @@ It's playground for testing solution of [CoreWars](https://www.codewars.com/)' *
 ## Limits
 
 - Values of "solution" and "expected" are compared as texts.
-- Keep in mind that your installed Go version can be different (usually newer) then in CodeWars' environment.
-- Not all imports are allowed in CodeWars' environment.
+- Keep in mind that your installed Go version can be different (usually newer) then in the Codewars' environment.
+- Not all imports are allowed in the Codewars' environment.
