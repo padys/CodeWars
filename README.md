@@ -5,7 +5,7 @@ It's playground for comfortable testing solution of the [Codewars](https://www.c
 ## How to play
 
 1. Copy *kata* tests into [kata/test.go](./kata/tests.go)
-2. Copy *kata* solution into [kata/solution.go](./kata/solutions.go)
+2. Copy *kata* solution into [kata/solution.go](./kata/solution.go)
 3. Modify solution as you wish.
 4. Run app:
    - in terminal run: `go run .`
